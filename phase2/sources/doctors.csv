@@ -1,0 +1,452 @@
+doctor_id,doctor_full_name,gender,specialization,designation,qualification,employment_type,joining_date,row_effective_date
+DOC-1001,Dr. Demo 001,Female,General Medicine,Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1002,Dr. Demo 002,Male,Orthopaedics,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1003,Dr. Demo 003,Female,Neurology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1004,Dr. Demo 004,Male,Gastroenterology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1005,Dr. Demo 005,Female,Nephrology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1006,Dr. Demo 006,Male,Pulmonology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1007,Dr. Demo 007,Female,Cardiology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1008,Dr. Demo 008,Male,Dermatology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1009,Dr. Demo 009,Female,Emergency Medicine,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1010,Dr. Demo 010,Male,General Medicine,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1011,Dr. Demo 011,Female,Paediatrics,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1012,Dr. Demo 012,Male,Obstetrics and Gynaecology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1013,Dr. Demo 013,Female,Ear Nose and Throat,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1014,Dr. Demo 014,Male,Ophthalmology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1015,Dr. Demo 015,Female,Urology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1016,Dr. Demo 016,Male,Oncology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1017,Dr. Demo 017,Female,Psychiatry,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1018,Dr. Demo 018,Male,Endocrinology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1019,Dr. Demo 019,Female,Rheumatology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1020,Dr. Demo 020,Male,Anaesthesiology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1021,Dr. Demo 021,Female,Intensive Care,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1022,Dr. Demo 022,Male,Radiology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1023,Dr. Demo 023,Female,Pathology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1024,Dr. Demo 024,Male,Laboratory Medicine,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1025,Dr. Demo 025,Female,Rehabilitation,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1026,Dr. Demo 026,Male,General Surgery,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1027,Dr. Demo 027,Female,Orthopaedics,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1028,Dr. Demo 028,Male,Neurology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1029,Dr. Demo 029,Female,Gastroenterology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1030,Dr. Demo 030,Male,Nephrology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1031,Dr. Demo 031,Female,Pulmonology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1032,Dr. Demo 032,Male,Cardiology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1033,Dr. Demo 033,Female,Dermatology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1034,Dr. Demo 034,Male,Emergency Medicine,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1035,Dr. Demo 035,Female,General Medicine,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1036,Dr. Demo 036,Male,Paediatrics,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1037,Dr. Demo 037,Female,Obstetrics and Gynaecology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1038,Dr. Demo 038,Male,Ear Nose and Throat,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1039,Dr. Demo 039,Female,Ophthalmology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1040,Dr. Demo 040,Male,Urology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1041,Dr. Demo 041,Female,Oncology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1042,Dr. Demo 042,Male,Psychiatry,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1043,Dr. Demo 043,Female,Endocrinology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1044,Dr. Demo 044,Male,Rheumatology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1045,Dr. Demo 045,Female,Anaesthesiology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1046,Dr. Demo 046,Male,Intensive Care,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1047,Dr. Demo 047,Female,Radiology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1048,Dr. Demo 048,Male,Pathology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1049,Dr. Demo 049,Female,Laboratory Medicine,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1050,Dr. Demo 050,Male,Rehabilitation,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1051,Dr. Demo 051,Female,General Surgery,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1052,Dr. Demo 052,Male,Orthopaedics,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1053,Dr. Demo 053,Female,Neurology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1054,Dr. Demo 054,Male,Gastroenterology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1055,Dr. Demo 055,Female,Nephrology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1056,Dr. Demo 056,Male,Pulmonology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1057,Dr. Demo 057,Female,Cardiology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1058,Dr. Demo 058,Male,Dermatology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1059,Dr. Demo 059,Female,Emergency Medicine,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1060,Dr. Demo 060,Male,General Medicine,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1061,Dr. Demo 061,Female,Paediatrics,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1062,Dr. Demo 062,Male,Obstetrics and Gynaecology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1063,Dr. Demo 063,Female,Ear Nose and Throat,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1064,Dr. Demo 064,Male,Ophthalmology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1065,Dr. Demo 065,Female,Urology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1066,Dr. Demo 066,Male,Oncology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1067,Dr. Demo 067,Female,Psychiatry,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1068,Dr. Demo 068,Male,Endocrinology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1069,Dr. Demo 069,Female,Rheumatology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1070,Dr. Demo 070,Male,Anaesthesiology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1071,Dr. Demo 071,Female,Intensive Care,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1072,Dr. Demo 072,Male,Radiology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1073,Dr. Demo 073,Female,Pathology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1074,Dr. Demo 074,Male,Laboratory Medicine,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1075,Dr. Demo 075,Female,Rehabilitation,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1076,Dr. Demo 076,Male,General Surgery,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1077,Dr. Demo 077,Female,Orthopaedics,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1078,Dr. Demo 078,Male,Neurology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1079,Dr. Demo 079,Female,Gastroenterology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1080,Dr. Demo 080,Male,Nephrology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1081,Dr. Demo 081,Female,Pulmonology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1082,Dr. Demo 082,Male,Cardiology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1083,Dr. Demo 083,Female,Dermatology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1084,Dr. Demo 084,Male,Emergency Medicine,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1085,Dr. Demo 085,Female,General Medicine,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1086,Dr. Demo 086,Male,Paediatrics,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1087,Dr. Demo 087,Female,Obstetrics and Gynaecology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1088,Dr. Demo 088,Male,Ear Nose and Throat,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1089,Dr. Demo 089,Female,Ophthalmology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1090,Dr. Demo 090,Male,Urology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1091,Dr. Demo 091,Female,Oncology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1092,Dr. Demo 092,Male,Psychiatry,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1093,Dr. Demo 093,Female,Endocrinology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1094,Dr. Demo 094,Male,Rheumatology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1095,Dr. Demo 095,Female,Anaesthesiology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1096,Dr. Demo 096,Male,Intensive Care,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1097,Dr. Demo 097,Female,Radiology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1098,Dr. Demo 098,Male,Pathology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1099,Dr. Demo 099,Female,Laboratory Medicine,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1100,Dr. Demo 100,Male,Rehabilitation,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1101,Dr. Demo 101,Female,General Surgery,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1102,Dr. Demo 102,Male,Orthopaedics,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1103,Dr. Demo 103,Female,Neurology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1104,Dr. Demo 104,Male,Gastroenterology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1105,Dr. Demo 105,Female,Nephrology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1106,Dr. Demo 106,Male,Pulmonology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1107,Dr. Demo 107,Female,Cardiology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1108,Dr. Demo 108,Male,Dermatology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1109,Dr. Demo 109,Female,Emergency Medicine,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1110,Dr. Demo 110,Male,General Medicine,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1111,Dr. Demo 111,Female,Paediatrics,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1112,Dr. Demo 112,Male,Obstetrics and Gynaecology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1113,Dr. Demo 113,Female,Ear Nose and Throat,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1114,Dr. Demo 114,Male,Ophthalmology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1115,Dr. Demo 115,Female,Urology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1116,Dr. Demo 116,Male,Oncology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1117,Dr. Demo 117,Female,Psychiatry,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1118,Dr. Demo 118,Male,Endocrinology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1119,Dr. Demo 119,Female,Rheumatology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1120,Dr. Demo 120,Male,Anaesthesiology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1121,Dr. Demo 121,Female,Intensive Care,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1122,Dr. Demo 122,Male,Radiology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1123,Dr. Demo 123,Female,Pathology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1124,Dr. Demo 124,Male,Laboratory Medicine,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1125,Dr. Demo 125,Female,Rehabilitation,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1126,Dr. Demo 126,Male,General Surgery,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1127,Dr. Demo 127,Female,Orthopaedics,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1128,Dr. Demo 128,Male,Neurology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1129,Dr. Demo 129,Female,Gastroenterology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1130,Dr. Demo 130,Male,Nephrology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1131,Dr. Demo 131,Female,Pulmonology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1132,Dr. Demo 132,Male,Cardiology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1133,Dr. Demo 133,Female,Dermatology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1134,Dr. Demo 134,Male,Emergency Medicine,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1135,Dr. Demo 135,Female,General Medicine,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1136,Dr. Demo 136,Male,Paediatrics,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1137,Dr. Demo 137,Female,Obstetrics and Gynaecology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1138,Dr. Demo 138,Male,Ear Nose and Throat,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1139,Dr. Demo 139,Female,Ophthalmology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1140,Dr. Demo 140,Male,Urology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1141,Dr. Demo 141,Female,Oncology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1142,Dr. Demo 142,Male,Psychiatry,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1143,Dr. Demo 143,Female,Endocrinology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1144,Dr. Demo 144,Male,Rheumatology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1145,Dr. Demo 145,Female,Anaesthesiology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1146,Dr. Demo 146,Male,Intensive Care,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1147,Dr. Demo 147,Female,Radiology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1148,Dr. Demo 148,Male,Pathology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1149,Dr. Demo 149,Female,Laboratory Medicine,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1150,Dr. Demo 150,Male,Rehabilitation,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1151,Dr. Demo 151,Female,General Surgery,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1152,Dr. Demo 152,Male,Orthopaedics,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1153,Dr. Demo 153,Female,Neurology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1154,Dr. Demo 154,Male,Gastroenterology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1155,Dr. Demo 155,Female,Nephrology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1156,Dr. Demo 156,Male,Pulmonology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1157,Dr. Demo 157,Female,Cardiology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1158,Dr. Demo 158,Male,Dermatology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1159,Dr. Demo 159,Female,Emergency Medicine,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1160,Dr. Demo 160,Male,General Medicine,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1161,Dr. Demo 161,Female,Paediatrics,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1162,Dr. Demo 162,Male,Obstetrics and Gynaecology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1163,Dr. Demo 163,Female,Ear Nose and Throat,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1164,Dr. Demo 164,Male,Ophthalmology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1165,Dr. Demo 165,Female,Urology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1166,Dr. Demo 166,Male,Oncology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1167,Dr. Demo 167,Female,Psychiatry,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1168,Dr. Demo 168,Male,Endocrinology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1169,Dr. Demo 169,Female,Rheumatology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1170,Dr. Demo 170,Male,Anaesthesiology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1171,Dr. Demo 171,Female,Intensive Care,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1172,Dr. Demo 172,Male,Radiology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1173,Dr. Demo 173,Female,Pathology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1174,Dr. Demo 174,Male,Laboratory Medicine,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1175,Dr. Demo 175,Female,Rehabilitation,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1176,Dr. Demo 176,Male,General Surgery,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1177,Dr. Demo 177,Female,Orthopaedics,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1178,Dr. Demo 178,Male,Neurology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1179,Dr. Demo 179,Female,Gastroenterology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1180,Dr. Demo 180,Male,Nephrology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1181,Dr. Demo 181,Female,Pulmonology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1182,Dr. Demo 182,Male,Cardiology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1183,Dr. Demo 183,Female,Dermatology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1184,Dr. Demo 184,Male,Emergency Medicine,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1185,Dr. Demo 185,Female,General Medicine,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1186,Dr. Demo 186,Male,Paediatrics,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1187,Dr. Demo 187,Female,Obstetrics and Gynaecology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1188,Dr. Demo 188,Male,Ear Nose and Throat,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1189,Dr. Demo 189,Female,Ophthalmology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1190,Dr. Demo 190,Male,Urology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1191,Dr. Demo 191,Female,Oncology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1192,Dr. Demo 192,Male,Psychiatry,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1193,Dr. Demo 193,Female,Endocrinology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1194,Dr. Demo 194,Male,Rheumatology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1195,Dr. Demo 195,Female,Anaesthesiology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1196,Dr. Demo 196,Male,Intensive Care,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1197,Dr. Demo 197,Female,Radiology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1198,Dr. Demo 198,Male,Pathology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1199,Dr. Demo 199,Female,Laboratory Medicine,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1200,Dr. Demo 200,Male,Rehabilitation,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1201,Dr. Demo 201,Female,General Surgery,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1202,Dr. Demo 202,Male,Orthopaedics,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1203,Dr. Demo 203,Female,Neurology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1204,Dr. Demo 204,Male,Gastroenterology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1205,Dr. Demo 205,Female,Nephrology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1206,Dr. Demo 206,Male,Pulmonology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1207,Dr. Demo 207,Female,Cardiology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1208,Dr. Demo 208,Male,Dermatology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1209,Dr. Demo 209,Female,Emergency Medicine,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1210,Dr. Demo 210,Male,General Medicine,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1211,Dr. Demo 211,Female,Paediatrics,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1212,Dr. Demo 212,Male,Obstetrics and Gynaecology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1213,Dr. Demo 213,Female,Ear Nose and Throat,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1214,Dr. Demo 214,Male,Ophthalmology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1215,Dr. Demo 215,Female,Urology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1216,Dr. Demo 216,Male,Oncology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1217,Dr. Demo 217,Female,Psychiatry,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1218,Dr. Demo 218,Male,Endocrinology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1219,Dr. Demo 219,Female,Rheumatology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1220,Dr. Demo 220,Male,Anaesthesiology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1221,Dr. Demo 221,Female,Intensive Care,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1222,Dr. Demo 222,Male,Radiology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1223,Dr. Demo 223,Female,Pathology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1224,Dr. Demo 224,Male,Laboratory Medicine,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1225,Dr. Demo 225,Female,Rehabilitation,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1226,Dr. Demo 226,Male,General Surgery,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1227,Dr. Demo 227,Female,Orthopaedics,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1228,Dr. Demo 228,Male,Neurology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1229,Dr. Demo 229,Female,Gastroenterology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1230,Dr. Demo 230,Male,Nephrology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1231,Dr. Demo 231,Female,Pulmonology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1232,Dr. Demo 232,Male,Cardiology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1233,Dr. Demo 233,Female,Dermatology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1234,Dr. Demo 234,Male,Emergency Medicine,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1235,Dr. Demo 235,Female,General Medicine,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1236,Dr. Demo 236,Male,Paediatrics,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1237,Dr. Demo 237,Female,Obstetrics and Gynaecology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1238,Dr. Demo 238,Male,Ear Nose and Throat,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1239,Dr. Demo 239,Female,Ophthalmology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1240,Dr. Demo 240,Male,Urology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1241,Dr. Demo 241,Female,Oncology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1242,Dr. Demo 242,Male,Psychiatry,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1243,Dr. Demo 243,Female,Endocrinology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1244,Dr. Demo 244,Male,Rheumatology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1245,Dr. Demo 245,Female,Anaesthesiology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1246,Dr. Demo 246,Male,Intensive Care,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1247,Dr. Demo 247,Female,Radiology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1248,Dr. Demo 248,Male,Pathology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1249,Dr. Demo 249,Female,Laboratory Medicine,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1250,Dr. Demo 250,Male,Rehabilitation,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1251,Dr. Demo 251,Female,General Surgery,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1252,Dr. Demo 252,Male,Orthopaedics,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1253,Dr. Demo 253,Female,Neurology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1254,Dr. Demo 254,Male,Gastroenterology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1255,Dr. Demo 255,Female,Nephrology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1256,Dr. Demo 256,Male,Pulmonology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1257,Dr. Demo 257,Female,Cardiology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1258,Dr. Demo 258,Male,Dermatology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1259,Dr. Demo 259,Female,Emergency Medicine,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1260,Dr. Demo 260,Male,General Medicine,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1261,Dr. Demo 261,Female,Paediatrics,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1262,Dr. Demo 262,Male,Obstetrics and Gynaecology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1263,Dr. Demo 263,Female,Ear Nose and Throat,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1264,Dr. Demo 264,Male,Ophthalmology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1265,Dr. Demo 265,Female,Urology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1266,Dr. Demo 266,Male,Oncology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1267,Dr. Demo 267,Female,Psychiatry,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1268,Dr. Demo 268,Male,Endocrinology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1269,Dr. Demo 269,Female,Rheumatology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1270,Dr. Demo 270,Male,Anaesthesiology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1271,Dr. Demo 271,Female,Intensive Care,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1272,Dr. Demo 272,Male,Radiology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1273,Dr. Demo 273,Female,Pathology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1274,Dr. Demo 274,Male,Laboratory Medicine,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1275,Dr. Demo 275,Female,Rehabilitation,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1276,Dr. Demo 276,Male,General Surgery,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1277,Dr. Demo 277,Female,Orthopaedics,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1278,Dr. Demo 278,Male,Neurology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1279,Dr. Demo 279,Female,Gastroenterology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1280,Dr. Demo 280,Male,Nephrology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1281,Dr. Demo 281,Female,Pulmonology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1282,Dr. Demo 282,Male,Cardiology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1283,Dr. Demo 283,Female,Dermatology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1284,Dr. Demo 284,Male,Emergency Medicine,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1285,Dr. Demo 285,Female,General Medicine,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1286,Dr. Demo 286,Male,Paediatrics,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1287,Dr. Demo 287,Female,Obstetrics and Gynaecology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1288,Dr. Demo 288,Male,Ear Nose and Throat,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1289,Dr. Demo 289,Female,Ophthalmology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1290,Dr. Demo 290,Male,Urology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1291,Dr. Demo 291,Female,Oncology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1292,Dr. Demo 292,Male,Psychiatry,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1293,Dr. Demo 293,Female,Endocrinology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1294,Dr. Demo 294,Male,Rheumatology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1295,Dr. Demo 295,Female,Anaesthesiology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1296,Dr. Demo 296,Male,Intensive Care,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1297,Dr. Demo 297,Female,Radiology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1298,Dr. Demo 298,Male,Pathology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1299,Dr. Demo 299,Female,Laboratory Medicine,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1300,Dr. Demo 300,Male,Rehabilitation,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1301,Dr. Demo 301,Female,General Surgery,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1302,Dr. Demo 302,Male,Orthopaedics,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1303,Dr. Demo 303,Female,Neurology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1304,Dr. Demo 304,Male,Gastroenterology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1305,Dr. Demo 305,Female,Nephrology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1306,Dr. Demo 306,Male,Pulmonology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1307,Dr. Demo 307,Female,Cardiology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1308,Dr. Demo 308,Male,Dermatology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1309,Dr. Demo 309,Female,Emergency Medicine,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1310,Dr. Demo 310,Male,General Medicine,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1311,Dr. Demo 311,Female,Paediatrics,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1312,Dr. Demo 312,Male,Obstetrics and Gynaecology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1313,Dr. Demo 313,Female,Ear Nose and Throat,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1314,Dr. Demo 314,Male,Ophthalmology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1315,Dr. Demo 315,Female,Urology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1316,Dr. Demo 316,Male,Oncology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1317,Dr. Demo 317,Female,Psychiatry,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1318,Dr. Demo 318,Male,Endocrinology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1319,Dr. Demo 319,Female,Rheumatology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1320,Dr. Demo 320,Male,Anaesthesiology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1321,Dr. Demo 321,Female,Intensive Care,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1322,Dr. Demo 322,Male,Radiology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1323,Dr. Demo 323,Female,Pathology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1324,Dr. Demo 324,Male,Laboratory Medicine,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1325,Dr. Demo 325,Female,Rehabilitation,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1326,Dr. Demo 326,Male,General Surgery,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1327,Dr. Demo 327,Female,Orthopaedics,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1328,Dr. Demo 328,Male,Neurology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1329,Dr. Demo 329,Female,Gastroenterology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1330,Dr. Demo 330,Male,Nephrology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1331,Dr. Demo 331,Female,Pulmonology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1332,Dr. Demo 332,Male,Cardiology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1333,Dr. Demo 333,Female,Dermatology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1334,Dr. Demo 334,Male,Emergency Medicine,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1335,Dr. Demo 335,Female,General Medicine,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1336,Dr. Demo 336,Male,Paediatrics,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1337,Dr. Demo 337,Female,Obstetrics and Gynaecology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1338,Dr. Demo 338,Male,Ear Nose and Throat,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1339,Dr. Demo 339,Female,Ophthalmology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1340,Dr. Demo 340,Male,Urology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1341,Dr. Demo 341,Female,Oncology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1342,Dr. Demo 342,Male,Psychiatry,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1343,Dr. Demo 343,Female,Endocrinology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1344,Dr. Demo 344,Male,Rheumatology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1345,Dr. Demo 345,Female,Anaesthesiology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1346,Dr. Demo 346,Male,Intensive Care,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1347,Dr. Demo 347,Female,Radiology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1348,Dr. Demo 348,Male,Pathology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1349,Dr. Demo 349,Female,Laboratory Medicine,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1350,Dr. Demo 350,Male,Rehabilitation,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1351,Dr. Demo 351,Female,General Surgery,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1352,Dr. Demo 352,Male,Orthopaedics,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1353,Dr. Demo 353,Female,Neurology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1354,Dr. Demo 354,Male,Gastroenterology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1355,Dr. Demo 355,Female,Nephrology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1356,Dr. Demo 356,Male,Pulmonology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1357,Dr. Demo 357,Female,Cardiology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1358,Dr. Demo 358,Male,Dermatology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1359,Dr. Demo 359,Female,Emergency Medicine,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1360,Dr. Demo 360,Male,General Medicine,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1361,Dr. Demo 361,Female,Paediatrics,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1362,Dr. Demo 362,Male,Obstetrics and Gynaecology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1363,Dr. Demo 363,Female,Ear Nose and Throat,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1364,Dr. Demo 364,Male,Ophthalmology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1365,Dr. Demo 365,Female,Urology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1366,Dr. Demo 366,Male,Oncology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1367,Dr. Demo 367,Female,Psychiatry,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1368,Dr. Demo 368,Male,Endocrinology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1369,Dr. Demo 369,Female,Rheumatology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1370,Dr. Demo 370,Male,Anaesthesiology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1371,Dr. Demo 371,Female,Intensive Care,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1372,Dr. Demo 372,Male,Radiology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1373,Dr. Demo 373,Female,Pathology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1374,Dr. Demo 374,Male,Laboratory Medicine,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1375,Dr. Demo 375,Female,Rehabilitation,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1376,Dr. Demo 376,Male,General Surgery,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1377,Dr. Demo 377,Female,Orthopaedics,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1378,Dr. Demo 378,Male,Neurology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1379,Dr. Demo 379,Female,Gastroenterology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1380,Dr. Demo 380,Male,Nephrology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1381,Dr. Demo 381,Female,Pulmonology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1382,Dr. Demo 382,Male,Cardiology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1383,Dr. Demo 383,Female,Dermatology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1384,Dr. Demo 384,Male,Emergency Medicine,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1385,Dr. Demo 385,Female,General Medicine,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1386,Dr. Demo 386,Male,Paediatrics,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1387,Dr. Demo 387,Female,Obstetrics and Gynaecology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1388,Dr. Demo 388,Male,Ear Nose and Throat,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1389,Dr. Demo 389,Female,Ophthalmology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1390,Dr. Demo 390,Male,Urology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1391,Dr. Demo 391,Female,Oncology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1392,Dr. Demo 392,Male,Psychiatry,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1393,Dr. Demo 393,Female,Endocrinology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1394,Dr. Demo 394,Male,Rheumatology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1395,Dr. Demo 395,Female,Anaesthesiology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1396,Dr. Demo 396,Male,Intensive Care,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1397,Dr. Demo 397,Female,Radiology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1398,Dr. Demo 398,Male,Pathology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1399,Dr. Demo 399,Female,Laboratory Medicine,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1400,Dr. Demo 400,Male,Rehabilitation,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1401,Dr. Demo 401,Female,General Surgery,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1402,Dr. Demo 402,Male,Orthopaedics,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1403,Dr. Demo 403,Female,Neurology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1404,Dr. Demo 404,Male,Gastroenterology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1405,Dr. Demo 405,Female,Nephrology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1406,Dr. Demo 406,Male,Pulmonology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1407,Dr. Demo 407,Female,Cardiology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1408,Dr. Demo 408,Male,Dermatology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1409,Dr. Demo 409,Female,Emergency Medicine,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1410,Dr. Demo 410,Male,General Medicine,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1411,Dr. Demo 411,Female,Paediatrics,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1412,Dr. Demo 412,Male,Obstetrics and Gynaecology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1413,Dr. Demo 413,Female,Ear Nose and Throat,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1414,Dr. Demo 414,Male,Ophthalmology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1415,Dr. Demo 415,Female,Urology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1416,Dr. Demo 416,Male,Oncology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1417,Dr. Demo 417,Female,Psychiatry,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1418,Dr. Demo 418,Male,Endocrinology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1419,Dr. Demo 419,Female,Rheumatology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1420,Dr. Demo 420,Male,Anaesthesiology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1421,Dr. Demo 421,Female,Intensive Care,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1422,Dr. Demo 422,Male,Radiology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1423,Dr. Demo 423,Female,Pathology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1424,Dr. Demo 424,Male,Laboratory Medicine,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1425,Dr. Demo 425,Female,Rehabilitation,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1426,Dr. Demo 426,Male,General Surgery,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1427,Dr. Demo 427,Female,Orthopaedics,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1428,Dr. Demo 428,Male,Neurology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1429,Dr. Demo 429,Female,Gastroenterology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1430,Dr. Demo 430,Male,Nephrology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1431,Dr. Demo 431,Female,Pulmonology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1432,Dr. Demo 432,Male,Cardiology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1433,Dr. Demo 433,Female,Dermatology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1434,Dr. Demo 434,Male,Emergency Medicine,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1435,Dr. Demo 435,Female,General Medicine,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1436,Dr. Demo 436,Male,Paediatrics,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1437,Dr. Demo 437,Female,Obstetrics and Gynaecology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1438,Dr. Demo 438,Male,Ear Nose and Throat,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1439,Dr. Demo 439,Female,Ophthalmology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1440,Dr. Demo 440,Male,Urology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1441,Dr. Demo 441,Female,Oncology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1442,Dr. Demo 442,Male,Psychiatry,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1443,Dr. Demo 443,Female,Endocrinology,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1444,Dr. Demo 444,Male,Rheumatology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1445,Dr. Demo 445,Female,Anaesthesiology,Senior Registrar,"MBBS, FCPS",Visiting,2015-01-01,2015-01-01
+DOC-1446,Dr. Demo 446,Male,Intensive Care,Medical Officer,"MBBS, FCPS",Contract,2015-01-01,2015-01-01
+DOC-1447,Dr. Demo 447,Female,Radiology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-0187,Dr. Imran Qureshi,Male,Cardiology,Consultant,"MBBS, FCPS (Cardiology)",Permanent,2015-09-01,2023-07-01
+DOC-0188,Dr. Sana Malik,Female,Dermatology,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-0189,Dr. Bilal Ahmed,Male,Emergency Medicine,Consultant,"MBBS, FCPS",Permanent,2015-01-01,2015-01-01
+DOC-1001,Dr. Demo 001,Female,General Medicine,Consultant,"MBBS, FCPS",Visiting,2015-01-01,2026-07-01

@@ -1,0 +1,4 @@
+*.pdf binary
+*.png binary
+*.xlsx binary
+phase2/sources/*.csv text eol=lf

@@ -1,0 +1,81 @@
+visit_type,admission_source,discharge_status
+Inpatient,Walk-in,Discharged Home
+Inpatient,Walk-in,Transferred Out
+Inpatient,Walk-in,LAMA
+Inpatient,Walk-in,Expired
+Inpatient,Appointment,Discharged Home
+Inpatient,Appointment,Transferred Out
+Inpatient,Appointment,LAMA
+Inpatient,Appointment,Expired
+Inpatient,Referral,Discharged Home
+Inpatient,Referral,Transferred Out
+Inpatient,Referral,LAMA
+Inpatient,Emergency,Discharged Home
+Inpatient,Referral,Expired
+Inpatient,Emergency,Transferred Out
+Inpatient,Emergency,LAMA
+Inpatient,Emergency,Expired
+Inpatient,Transfer-in,Discharged Home
+Inpatient,Transfer-in,Transferred Out
+Inpatient,Transfer-in,LAMA
+Inpatient,Transfer-in,Expired
+Outpatient,Walk-in,Discharged Home
+Outpatient,Walk-in,Transferred Out
+Outpatient,Walk-in,LAMA
+Outpatient,Walk-in,Expired
+Outpatient,Appointment,Discharged Home
+Outpatient,Appointment,Transferred Out
+Outpatient,Appointment,LAMA
+Outpatient,Appointment,Expired
+Outpatient,Referral,Discharged Home
+Outpatient,Referral,Transferred Out
+Outpatient,Referral,LAMA
+Outpatient,Referral,Expired
+Outpatient,Emergency,Discharged Home
+Outpatient,Emergency,Transferred Out
+Outpatient,Emergency,LAMA
+Outpatient,Emergency,Expired
+Outpatient,Transfer-in,Discharged Home
+Outpatient,Transfer-in,Transferred Out
+Outpatient,Transfer-in,LAMA
+Outpatient,Transfer-in,Expired
+Emergency,Walk-in,Discharged Home
+Emergency,Walk-in,Transferred Out
+Emergency,Walk-in,LAMA
+Emergency,Walk-in,Expired
+Emergency,Appointment,Discharged Home
+Emergency,Appointment,Transferred Out
+Emergency,Appointment,LAMA
+Emergency,Appointment,Expired
+Emergency,Referral,Discharged Home
+Emergency,Referral,Transferred Out
+Emergency,Referral,LAMA
+Emergency,Referral,Expired
+Emergency,Emergency,Discharged Home
+Emergency,Emergency,Transferred Out
+Emergency,Emergency,LAMA
+Emergency,Emergency,Expired
+Emergency,Transfer-in,Discharged Home
+Emergency,Transfer-in,Transferred Out
+Emergency,Transfer-in,LAMA
+Emergency,Transfer-in,Expired
+Day Care,Walk-in,Discharged Home
+Day Care,Walk-in,Transferred Out
+Day Care,Walk-in,LAMA
+Day Care,Walk-in,Expired
+Day Care,Appointment,Discharged Home
+Day Care,Appointment,Transferred Out
+Day Care,Appointment,LAMA
+Day Care,Appointment,Expired
+Day Care,Referral,Discharged Home
+Day Care,Referral,Transferred Out
+Day Care,Referral,LAMA
+Day Care,Referral,Expired
+Day Care,Emergency,Discharged Home
+Day Care,Emergency,Transferred Out
+Day Care,Emergency,LAMA
+Day Care,Emergency,Expired
+Day Care,Transfer-in,Discharged Home
+Day Care,Transfer-in,Transferred Out
+Day Care,Transfer-in,LAMA
+Day Care,Transfer-in,Expired

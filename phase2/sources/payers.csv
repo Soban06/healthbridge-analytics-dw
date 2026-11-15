@@ -1,0 +1,5 @@
+payer_code,payer_name,payer_type,default_coverage_pct
+SELF,Self-Pay,Self-Pay,0
+CORP-01,Demo Corporate Panel,Corporate Panel,100
+GOV-HC,Government Health Card,Government Scheme,100
+INS-007,Crescent Health Insurance,Private Insurance,70

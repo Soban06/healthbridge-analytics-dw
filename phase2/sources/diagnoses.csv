@@ -1,0 +1,4 @@
+icd10_code,diagnosis_description,diagnosis_block,icd10_chapter,is_chronic,is_communicable
+I21.9,"Acute myocardial infarction, unspecified",Ischaemic heart diseases (I20-I25),IX - Diseases of the circulatory system (I00-I99),0,0
+L20.9,"Atopic dermatitis, unspecified",Dermatitis and eczema (L20-L30),XII - Diseases of the skin and subcutaneous tissue (L00-L99),1,0
+J06.9,"Acute upper respiratory infection, unspecified",Acute upper respiratory infections (J00-J06),X - Diseases of the respiratory system (J00-J99),0,1

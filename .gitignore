@@ -1,0 +1,9 @@
+.sandbox/
+__pycache__/
+*.py[cod]
+/output/*
+!/output/pdf/
+/output/pdf/*
+!/output/pdf/01_Data_Cleaning_Report.pdf
+!/output/pdf/02_Data_Quality_Report.pdf
+/.env

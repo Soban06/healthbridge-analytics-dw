@@ -1,0 +1,6 @@
+channel_code,channel_name,channel_type
+APP,Mobile App,Digital
+WEB,Web Portal,Digital
+CALL,Call Centre,Assisted
+WALKIN,Walk-in Counter,In-Person
+REFERRAL,Doctor Referral,Assisted

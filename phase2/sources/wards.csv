@@ -1,0 +1,31 @@
+ward_code,ward_name,ward_type,building_name,floor_number,is_isolation_ward
+W-DEMO-01,General Surgery Ward 01,Semi-Private,Main Block,2,0
+W-DEMO-02,Orthopaedics Ward 02,Private,Main Block,3,0
+W-DEMO-03,Neurology Ward 03,General,Main Block,4,0
+W-DEMO-04,Gastroenterology Ward 04,Semi-Private,Main Block,5,0
+W-DEMO-05,Nephrology Ward 05,Private,Main Block,1,0
+W-DEMO-06,Pulmonology Ward 06,General,Main Block,2,1
+W-DEMO-07,Cardiology Ward 07,Semi-Private,Main Block,3,0
+W-DEMO-08,Emergency Ward 08,Emergency,Main Block,5,0
+W-DEMO-09,General Medicine Ward 09,General,Main Block,1,0
+W-DEMO-10,Paediatrics Ward 10,Paediatric,Main Block,2,0
+W-DEMO-11,Obstetrics and Gynaecology Ward 11,Maternity,Main Block,3,0
+W-DEMO-12,Ear Nose and Throat Ward 12,General,Main Block,4,0
+W-DEMO-13,Ophthalmology Ward 13,Semi-Private,Main Block,5,0
+W-DEMO-14,Urology Ward 14,Private,Main Block,1,0
+W-DEMO-15,Oncology Ward 15,General,Main Block,2,0
+W-DEMO-16,Psychiatry Ward 16,Semi-Private,Main Block,3,0
+W-DEMO-17,Endocrinology Ward 17,Private,Main Block,4,0
+W-DEMO-18,Rheumatology Ward 18,General,Main Block,5,0
+W-DEMO-19,Anaesthesiology Ward 19,Semi-Private,Main Block,1,0
+W-DEMO-20,Intensive Care Ward 20,Critical Care,Main Block,2,0
+W-CCU-01,Coronary Care Unit,Critical Care,Main Block,3,0
+W-MED-02,Male Medical Ward,General,Main Block,1,0
+W-PAED-01,Paediatric Ward,Paediatric,Main Block,2,0
+W-DEMO-24,Gastroenterology Ward 24,General,Main Block,5,0
+W-DEMO-25,Nephrology Ward 25,Semi-Private,Main Block,1,0
+W-DEMO-26,Pulmonology Ward 26,Private,Main Block,2,0
+W-DEMO-27,Cardiology Ward 27,General,Main Block,3,0
+W-DEMO-28,Emergency Ward 28,Emergency,Main Block,5,0
+W-DEMO-29,General Medicine Ward 29,Private,Main Block,1,0
+W-DEMO-30,Paediatrics Ward 30,Paediatric,Main Block,2,0

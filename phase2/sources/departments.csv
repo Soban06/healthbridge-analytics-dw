@@ -1,0 +1,26 @@
+department_code,department_name,department_category,building_name,floor_number,has_inpatient_beds
+SURG,General Surgery,Surgical,Main Block,2,1
+ORTH,Orthopaedics,Surgical,Main Block,3,1
+NEUR,Neurology,Medical,Main Block,4,1
+GAST,Gastroenterology,Medical,Main Block,5,1
+NEPH,Nephrology,Medical,Main Block,1,1
+PULM,Pulmonology,Medical,Main Block,2,1
+CARD,Cardiology,Medical,Main Block,3,1
+DERM,Dermatology,Medical,Main Block,4,0
+EMER,Emergency,Emergency & Critical Care,Main Block,5,1
+MED,General Medicine,Medical,Main Block,1,1
+PAED,Paediatrics,Maternal & Child Health,Main Block,2,1
+OBGY,Obstetrics and Gynaecology,Maternal & Child Health,Main Block,3,1
+ENT,Ear Nose and Throat,Surgical,Main Block,4,1
+OPHT,Ophthalmology,Surgical,Main Block,5,1
+UROL,Urology,Surgical,Main Block,1,1
+ONCO,Oncology,Medical,Main Block,2,1
+PSYC,Psychiatry,Medical,Main Block,3,1
+ENDO,Endocrinology,Medical,Main Block,4,1
+RHEU,Rheumatology,Medical,Main Block,5,1
+ANAE,Anaesthesiology,Surgical,Main Block,1,1
+ICU,Intensive Care,Emergency & Critical Care,Main Block,2,1
+RAD,Radiology,Diagnostic,Main Block,3,0
+PATH,Pathology,Diagnostic,Main Block,4,0
+LAB,Laboratory Medicine,Diagnostic,Main Block,5,0
+REHB,Rehabilitation,Medical,Main Block,1,0

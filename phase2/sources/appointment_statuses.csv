@@ -1,0 +1,6 @@
+status_code,status_name,status_category,is_attended
+COMPLETED,Completed,Attended,1
+NOSHOW,No-Show,Missed,0
+CANC_PT,Cancelled by Patient,Cancelled,0
+CANC_HOSP,Cancelled by Hospital,Cancelled,0
+RESCHED,Rescheduled,Rescheduled,0
